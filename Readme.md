@@ -1,3 +1,4 @@
+ASSIMP 5.0.0
 This a fork to work with Premake5
 
 ==================================
