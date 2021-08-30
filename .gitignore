@@ -5,7 +5,6 @@
 **.vcxproj.filters
 **.vcxproj.user
 
-
 # Binaries
 **/bin/
 !vendor/premake/bin/
